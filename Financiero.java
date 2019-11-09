@@ -32,7 +32,8 @@ En una archivo compreso sube tu solucion al siguiente enlace:
 https://drive.google.com/drive/folders/1uB4KJqy2JjmZaIrcFX8ySp3bQ_4TYVuY?usp=sharing
  * 
  */
-/*errores solucionado*/
+/*errores solucionado
+   Cristian Rodriguez Venegas - 19161398*/
 public class Financiero{
     private double sueldo[] ={100.00,489.12,12454.12,1234.10,
                               823.05,109.20,5.27,1542.25,839.18,
